@@ -1,0 +1,23 @@
+{
+  "name": "atividade-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelS0usa/Atividade-CRUD.git"
+  },
+  "author": "Rafael de sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelS0usa/Atividade-CRUD/issues"
+  },
+  "homepage": "https://github.com/RafaelS0usa/Atividade-CRUD#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
